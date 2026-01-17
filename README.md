@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://ethmng.github.io/noviacode_microbit_vault/](https://ethmng.github.io/noviacode_microbit_vault/)
+> Ouvrir cette page à [https://NoviaCodeFrance.github.io/noviacode_microbit_vault/](https://NoviaCodeFrance.github.io/noviacode_microbit_vault/)
 
 ## Utiliser comme extension
 
@@ -16,7 +16,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/ethmng/noviacode_microbit_vault** et cliquez sur importer
+* collez **https://github.com/NoviaCodeFrance/noviacode_microbit_vault** et cliquez sur importer
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
